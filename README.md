@@ -22,12 +22,6 @@ DevOps Engineer | B.E. Computer Science (AI/ML) | Sathyabama Institute of Scienc
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com/route53/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Amazon_Route_53_logo.svg/1200px-Amazon_Route_53_logo.svg.png" alt="route53" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/elasticloadbalancing/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Amazon_Elastic_Load_Balancing_logo.svg/1200px-Amazon_Elastic_Load_Balancing_logo.svg.png" alt="elb" width="40" height="40"/>
-  </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   </a>
