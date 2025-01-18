@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1>I'm Niranjan R </h1>
+<h1> Hello There 👋 I'm Niranjan R </h1>
 DevOps Engineer | B.E. Computer Science (AI/ML) | Sathyabama Institute of Science and Technology
 
 ## About Me
