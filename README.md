@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-<h1>I'm Niranjan R 👋</h1>
+<h1>I'm Niranjan R </h1>
+DevOps Engineer | B.E. Computer Science (AI/ML) | Sathyabama Institute of Science and Technology
 
 ## About Me
-
-DevOps Engineer | B.E. Computer Science (AI/ML) | Sathyabama Institute of Science and Technology
 
 - 💻  Passionate about automating workflows and building scalable, reliable systems.
 - ☁️ Experienced in cloud infrastructure management (AWS) using tools like Docker, Kubernetes, Terraform.
@@ -21,12 +20,6 @@ DevOps Engineer | B.E. Computer Science (AI/ML) | Sathyabama Institute of Scienc
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-   <a href="https://aws.amazon.com/route53/" target="_blank" rel="noreferrer">
-    <img src="https://d1.awsstatic.com/route53/images/logos/route-53-hero-logo.png" alt="route53" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com/elasticloadbalancing/" target="_blank" rel="noreferrer">
-    <img src="https://d1.awsstatic.com/elasticloadbalancing/images/elb-logo.svg" alt="elb" width="40" height="40"/>
   </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
