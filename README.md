@@ -23,10 +23,10 @@ DevOps Engineer | B.E. Computer Science (AI/ML) | Sathyabama Institute of Scienc
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
    <a href="https://aws.amazon.com/route53/" target="_blank" rel="noreferrer">
-    <img src="https://s3.amazonaws.com/route53-website/assets/logos/route-53-hero-logo.png" alt="route53" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Amazon_Route_53_logo_2018.svg/220px-Amazon_Route_53_logo_2018.svg.png" alt="route53" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/elasticloadbalancing/" target="_blank" rel="noreferrer">
-    <img src="https://d1.awsstatic.com/icons/Services/ElasticLoadBalancing-v2-colored.svg" alt="elb" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Amazon_Elastic_Load_Balancing_Simplified_Logo.svg/220px-Amazon_Elastic_Load_Balancing_Simplified_Logo.svg.png" alt="elb" width="40" height="40"/>
   </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
