@@ -7,7 +7,7 @@ DevOps Engineer | B.E. Computer Science (AI/ML) | Sathyabama Institute of Scienc
 - ☁️ Experienced in cloud infrastructure management (AWS) using tools like Docker, Kubernetes, Terraform.
 - 🚀 Currently exploring advanced Kubernetes concepts and CI/CD pipelines with Jenkins and ArgoCD.
 - 🛠️ Proficient in Infrastructure as Code (IaC) and GitOps for efficient and streamlined deployments.
-- 🌱 Continuously learning and exploring new technologies within the Machine learning, Gen AI and DevOps ecosystem.
+- 🌱 Continuously learning and exploring new technologies within Machine learning, Gen AI and DevOps ecosystem.
  
 
 ---
