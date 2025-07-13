@@ -3,7 +3,8 @@ DevOps Engineer | B.E. Computer Science (AI/ML) | Sathyabama Institute of Scienc
 
 ## About Me
 
-- 💻  Passionate about automating workflows and building scalable, reliable systems.
+- 💻 Passionate about automating workflows and building scalable, reliable systems across the MERN stack, with a strong focus on backend development (Node.js, Express.js).
+- 📱 Experienced in developing web (React) and mobile (React Native) applications.
 - ☁️ Experienced in cloud infrastructure management (AWS) using tools like Docker, Kubernetes, Terraform.
 - 🚀 Currently exploring advanced Kubernetes concepts and CI/CD pipelines with Jenkins and ArgoCD.
 - 🛠️ Proficient in Infrastructure as Code (IaC) and GitOps for efficient and streamlined deployments.
