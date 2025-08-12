@@ -1,4 +1,4 @@
-<h1> Hello There 👋 I'm Niranjan R </h1>
+<h1> Hello There 👋 I'm Niranjan </h1>
 B.E. Computer Science (AI/ML) | Sathyabama Institute of Science and Technology
 
 ## About Me
